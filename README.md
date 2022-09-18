@@ -4,7 +4,7 @@ A API based responsive website that can show the realtime value and state of alm
 
 
 ## Technologies Used 
-> React JS
+> React JS 
 >  CSS3 
 >  Javascript 
 >  API  
